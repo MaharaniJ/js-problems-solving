@@ -1,0 +1,12 @@
+functions in js:
+functions in js are a block of code that used to perform a specific task.
+button submit, mouse cursor over
+in js we use functions as object
+
+callback function in js:
+callback  function is a function that is pass as a argument to the another function.
+ it can be called inside that function
+ and that particular function is executed later.
+
+
+ js is a single threaded or do a work over the time - synchronous
