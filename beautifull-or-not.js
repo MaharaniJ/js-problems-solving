@@ -10,7 +10,6 @@ function beautiful(arr) {
     return 0;
   }
 }
-
 console.log(beautiful(5, 25, 35, -5, 30));
 
 //end-here

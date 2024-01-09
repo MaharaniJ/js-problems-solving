@@ -1,4 +1,3 @@
-
 var pokemon = {
     firstname: 'Pika',
     lastname: 'Chu ',
